@@ -1,4 +1,4 @@
-# RobertMDoyle.github.io - List of live website Projects:
+# RobertMDoyle.github.io - Portfolio of live website Projects:
 
 https://robertmdoyle.github.io/vr-project/
 
